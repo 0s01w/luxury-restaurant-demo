@@ -1,0 +1,6 @@
+{
+  "name": "AURELIA | Haute Cuisine & Sommelier Lounge",
+  "description": "An exquisite, modern fine-dining experience featuring tasting menus, chef specials, online table reservations, wine pairings, and interactive culinary concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
